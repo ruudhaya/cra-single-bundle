@@ -1,3 +1,10 @@
+
+While running from node version 17 or later, use the following instructions before running other commands
+
+``` export NODE_OPTIONS=--openssl-legacy-provider ```
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
